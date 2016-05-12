@@ -13,7 +13,7 @@ The website should meet the following criteria:
 
 - Visitors to your website should be able to easily navigate to each page via a link
 - Code for the site should make good use of indentation
-- Site should include at least one image
+- Site should include at least three (3) images
 - Site should have at least one link to an external website
 - Site should use an external style sheet and incorporate at least 5 different css rules (of your own choosing)
 
