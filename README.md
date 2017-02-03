@@ -1,4 +1,4 @@
-# FEWD87 Homework #1 - Resume Website for famous person of your choice
+# Homework #1 - Resume Website for famous person of your choice
 
 ## Directions
 
